@@ -1,0 +1,1 @@
+alert("Đây là 1 thông báo từ Javascript");
